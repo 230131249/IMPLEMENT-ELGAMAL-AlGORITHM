@@ -45,7 +45,7 @@ int p, g, x;
 int h, y;
 int message, k; 
 int c1, c2, decrypted_message; 
-printf("\n\n *******Elgamal encryption and decryption*******\n\n GOKUL J 212222230038\n\n");
+printf("\n\n *******Elgamal encryption and decryption*******\n\n J JAYASURIYA 212223230088\n\n");
 printf("Enter a large prime number (p): ");
 scanf("%d", &p);
 printf("Enter a primiƟve root of p (g): ");
