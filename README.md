@@ -76,7 +76,8 @@ return 0;
 ```
 ## Output:
 
-![image](https://github.com/user-attachments/assets/430c0226-a0c5-4c41-8fa4-dd6915b4a171)
+![image](https://github.com/user-attachments/assets/235ff05c-fbfd-4bb7-b222-6a726a904371)
+
 
 ## Result:
 Thus the Elgamal algorithm had been implemented successfully.
